@@ -1,14 +1,14 @@
 
 # JZNATO Symbol Font v11 readme.md
 
-![ASCII map](JZNATO-v11.jpg)
+![ASCII map](JZNATO-v11.JPG)
 
 NATO symbols are widely used in wargaming. This set is intended to cover the symbols required for vintage 1970s and 1980s games from SPI, GDW and contemporaries. These symbols are all original work, and can be freely shared and used, except for commercial purposes (see below).
 
 The font is designed to have the most used symbols on the 0-9 and shift/0-9 characters (keyboard top row). a-z and A-Z are mainly laid out in 'groups' of symbol types, infantry, artillery, cavalry etc. There are then some sundry characters. All symbols are in bounding boxes, and this version is in 3x2 (or 600x400) ratio. (further updates will be provided for 4x3 and maybe rarely used 5x3 ratio).
 Modifiers (overlays) are also provided - eg parachute canopy, mountain - these can be overlaid on 'basic' symbols if required to create new combinations. 1/2 and 1/3 vertical lines are also provided. The only symbols provided without bounding boxes are supply, transport and bridge. I have limited the font to characters 33-127 to make it easy to use in all apps without opening Character Map.
 
-![Keyboard map](JZNATO-v11-keyboard-map.jpg)
+![Keyboard map](JZNATO-v11-keyboard-map.JPG)
 
 These symbols are broadly based on the NATO app6c specification. You can read the whole spec at https://www.awl.edu.pl/images/en/APP_6_C.pdf or you can make your own graphics at (the excellent) https://spatialillusions.com/unitgenerator/.
 
